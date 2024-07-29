@@ -5,6 +5,8 @@ Demo code to showcase how files can be added/deleted from s3 bucket using spring
 </br>
 # Add this in Application.Properties
 
-``cloud.aws.credentials.accessKey={your-access-key}
-cloud.aws.credentials.secretKey={your-secret-access-key}
-cloud.aws.region.static={your-region}``
+``cloud.aws.credentials.accessKey={your-access-key}``
+</br>
+``cloud.aws.credentials.secretKey={your-secret-access-key}``
+</br>
+``cloud.aws.region.static={your-region}``
